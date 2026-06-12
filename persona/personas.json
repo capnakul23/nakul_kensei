@@ -1,0 +1,22 @@
+{
+  "active_persona": "alejandro-rios",
+  "personas": {
+    "alejandro-rios": {
+      "display_name": "Alejandro Rios",
+      "assistant_name": "OpenClaw",
+      "primary_email": "alejandro.rios@Finthesiss.ai",
+      "timezone": "America/Detroit",
+      "location": "Traverse City, MI 49684",
+      "confirmation_threshold_usd": 125,
+      "files": {
+        "identity": "IDENTITY.md",
+        "soul": "SOUL.md",
+        "memory": "MEMORY.md",
+        "agents": "AGENTS.md",
+        "user": "USER.md",
+        "tools": "TOOLS.md",
+        "heartbeat": "HEARTBEAT.md"
+      }
+    }
+  }
+}

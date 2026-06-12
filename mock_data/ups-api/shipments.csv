@@ -1,0 +1,2 @@
+tracking_number,service_code,service_name,ship_date,origin_zip,dest_zip,weight_lb,currency,total_charge,label_url
+1Z999AA10123456784,03,UPS Ground,2026-05-28,37072,49684,7.0,USD,0.00,https://ups.com/labels/1Z999AA10123456784.pdf

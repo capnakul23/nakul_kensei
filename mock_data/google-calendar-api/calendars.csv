@@ -1,0 +1,3 @@
+id,summary,description,time_zone,access_role,primary,color_id
+alejandro.rios@Finthesiss.ai,Alejandro Rios,Primary calendar,America/Detroit,owner,true,1
+en.usa#holiday@group.v.calendar.google.com,US Holidays,Public holidays in the United States,America/Detroit,reader,false,8

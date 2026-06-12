@@ -1,0 +1,4 @@
+tracking_number,service_type,service_name,ship_date,origin_zip,dest_zip,weight_lb,currency,net_charge,label_url
+7794 1185 6027,GROUND,FedEx Ground,2026-06-20,45402,49684,1.5,USD,0.00,https://fedex.com/labels/779411856027.pdf
+7794 1185 4471,GROUND,FedEx Ground,2026-05-18,45402,49684,1.5,USD,0.00,https://fedex.com/labels/779411854471.pdf
+7794 2210 9920,HOME_DELIVERY,FedEx Home Delivery,2026-05-30,98390,49684,3.1,USD,0.00,https://fedex.com/labels/779422109920.pdf

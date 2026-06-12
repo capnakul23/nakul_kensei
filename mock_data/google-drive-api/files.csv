@@ -1,0 +1,10 @@
+id,name,mime_type,parent_id,size,created_time,modified_time,owner_email,starred,trashed,web_view_link
+FLD-ROOT,My Drive,application/vnd.google-apps.folder,,0,2021-08-01T00:00:00-04:00,2021-08-01T00:00:00-04:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/drive/folders/FLD-ROOT
+FLD-MAPLE,Maple,application/vnd.google-apps.folder,FLD-ROOT,0,2023-01-15T10:00:00-05:00,2023-01-15T10:00:00-05:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/drive/folders/FLD-MAPLE
+FILE-MAPLE-REC,sheet_01.xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,FLD-MAPLE,6684,2024-09-01T09:00:00-04:00,2025-09-14T16:30:00-04:00,alejandro.rios@Finthesiss.ai,true,false,https://drive.google.com/file/d/FILE-MAPLE-REC
+FILE-MAPLE-PHOTO,img_maple.jpg,image/jpeg,FLD-MAPLE,587303,2026-05-24T18:40:00-04:00,2026-05-24T18:40:00-04:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/file/d/FILE-MAPLE-PHOTO
+FILE-MAPLE-SUM,Maple_visit_summary_2026-06-10.pdf,application/pdf,FLD-MAPLE,184220,2026-06-10T17:08:00-04:00,2026-06-10T17:08:00-04:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/file/d/FILE-MAPLE-SUM
+FILE-MAPLE-ADOPT,Maple_adoption_paperwork.pdf,application/pdf,FLD-MAPLE,221044,2023-01-15T10:10:00-05:00,2023-01-15T10:10:00-05:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/file/d/FILE-MAPLE-ADOPT
+FILE-MAPLE-RABIES,Maple_rabies_certificate_2026.pdf,application/pdf,FLD-MAPLE,98112,2026-06-10T17:09:00-04:00,2026-06-10T17:09:00-04:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/file/d/FILE-MAPLE-RABIES
+FILE-MAPLE-GROOM,Maple_grooming_invoice_PS-4471.pdf,application/pdf,FLD-MAPLE,41200,2026-05-16T15:00:00-04:00,2026-05-16T15:00:00-04:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/file/d/FILE-MAPLE-GROOM
+FILE-MAPLE-VAX,Maple_vaccine_history.pdf,application/pdf,FLD-MAPLE,90400,2026-06-10T17:10:00-04:00,2026-06-10T17:10:00-04:00,alejandro.rios@Finthesiss.ai,false,false,https://drive.google.com/file/d/FILE-MAPLE-VAX

@@ -1,0 +1,5 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread
+INBOX,INBOX,system,16,6,16,6
+STARRED,STARRED,system,0,0,0,0
+SENT,SENT,system,0,0,0,0
+DRAFT,DRAFT,system,0,0,0,0

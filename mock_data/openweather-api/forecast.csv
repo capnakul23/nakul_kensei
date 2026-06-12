@@ -1,0 +1,5 @@
+city_id,dt,dt_txt,temp,feels_like,temp_min,temp_max,pressure,humidity,weather_id,weather_main,weather_description,weather_icon,wind_speed,wind_deg,clouds,pop
+4992982,1781784000,2026-06-12 12:00:00,74,73,55,74,1015,58,801,Clouds,few clouds,02d,6.5,210,20,0.10
+4992982,1781870400,2026-06-13 12:00:00,77,76,58,77,1017,52,800,Clear,clear sky,01d,5.2,200,5,0.05
+4992982,1781956800,2026-06-14 12:00:00,79,79,60,79,1016,50,800,Clear,clear sky,01d,4.8,190,0,0.00
+4992982,1782043200,2026-06-15 12:00:00,75,75,57,75,1012,64,500,Rain,light rain,10d,8.1,230,60,0.40

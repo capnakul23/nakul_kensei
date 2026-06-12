@@ -1,0 +1,6 @@
+id,file_id,type,role,email,display_name
+perm-001,FLD-MAPLE,user,owner,alejandro.rios@Finthesiss.ai,Alejandro Rios
+perm-002,FLD-MAPLE,user,reader,reception@birchwoodah.com,Birchwood Front Desk
+perm-003,FILE-MAPLE-SUM,user,owner,alejandro.rios@Finthesiss.ai,Alejandro Rios
+perm-004,FILE-MAPLE-SUM,user,reader,reception@birchwoodah.com,Birchwood Front Desk
+perm-005,FILE-MAPLE-REC,user,owner,alejandro.rios@Finthesiss.ai,Alejandro Rios
